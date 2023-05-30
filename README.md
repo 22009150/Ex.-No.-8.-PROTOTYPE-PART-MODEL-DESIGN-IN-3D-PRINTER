@@ -46,7 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/22009150/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118708624/0ba4f672-b40a-4689-87ae-897320ac9bd9)
+![image](https://github.com/22009150/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118708624/4c5acd2a-de30-4e9d-817c-e81fc0470507)
+
 
 ### Name:Archana.k
 ### Register Number:2122222240011
